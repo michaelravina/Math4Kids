@@ -58,51 +58,53 @@ A step by step guide on how to use the console:
 1. (Above) Initial Page. 
 </p>
 
+<br />
+<br />
 <p align="center">
 <img src = "images1/SS2.png" width = "250" height = "450">
 </p>
-<p>
- </p>
+            
 <p align="center">
 2. Once the GO button is clicked, the timer starts (upper left).
 </p>
 
+<br />
+<br />
 <p align="center">
 <img src = "images1/SS3.png" width = "250" height = "450">
 </p>
 
-<p>
- </p>
 <p align="center">
 3. The user is awarded 10 points for every correct question and the number of correct answers is listed on the bottom page.
 </p>
 
+<br />
+<br />
 <p align="center">
 <img src = "images1/SS4.png" width = "250" height = "450">
 </p>
 
-<p>
- </p>
 <p align="center">
 4. Above we see the points being added whilst the timer goes down.
 </p>
 
+
+<br />
+<br />
 <p align="center">
 <img src = "images1/SS5.png" width = "250" height = "450">
 </p>
 
-<p>
- </p>
 <p align="center">
 5. Every mistake would penalize the user by -30 points :(.
 </p>
 
+<br />
+<br />
 <p align="center">
 <img src = "images1/SS6.png" width = "250" height = "450">
 </p>
 
-<p>
- </p>
 <p align="center">
 6. When Time's UP the final score is tallied and their is an auto-reset to the start page.
 </p>
