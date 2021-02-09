@@ -42,7 +42,7 @@ Quickly! is an app riddled with simple Math problems for Android users. It is ea
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Android Studio](https://developer.android.com/studio?gclid=Cj0KCQiAgomBBhDXARIsAFNyUqPrcNelGRGxbaoYdBjys1vo0-DIGwHeZd1j5Yf-RnEziCp8nuC-qVwaAhZNEALw_wcB&gclsrc=aw.ds)
-* [Java](hhttps://www.java.com/en/)
+* [Java](https://www.java.com/en/)
 
 
 
@@ -55,37 +55,37 @@ A step by step guide on how to use the console:
 <img src = "images1/SS1.png" width = "250" height = "450">
 </p>
 
-1. Initial Page where client inputs their names. 
+1. Initial Page. 
 
 <p align="center">
 <img src = "images1/SS2.png" width = "250" height = "450">
 </p>
 
-2. A display table with trimmed names is shown as a summary of the input data.
+2. Once the GO button is clicked, the timer starts (upper left).
 
 <p align="center">
 <img src = "images1/SS3.png" width = "250" height = "450">
 </p>
 
-3.The final output wherein the names are trimmed together with all the seat & gate numbers, security code, date & time, etc.
+3. The user is awarded 10 points for every correct question and the number of correct answers is listed on the bottom page.
 
 <p align="center">
 <img src = "images1/SS4.png" width = "250" height = "450">
 </p>
 
-4. 
+4. Above we see the points being added whilst the timer goes down.
 
 <p align="center">
 <img src = "images1/SS5.png" width = "250" height = "450">
 </p>
 
-5. 
+5. Every mistake would penalize the user by -30 points :(.
 
 <p align="center">
 <img src = "images1/SS6.png" width = "250" height = "450">
 </p>
 
-6.
+6. When Time's UP the final score is tallied and their is an auto-reset to the start page.
 
 
 <!-- CONTACT -->
