@@ -36,24 +36,13 @@ A fun little online math quiz wherein kids get challenged to solve math problems
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-There are many great ticketing airline systems around but nothing like Koala Airlines! As my final programming fundamentals project, the code was six months in the making primarily because it is the application of all the things that we were taught in lecture and tutorial sessions. 
-
-Some of the project requirements (specified by the tutor):
-* Names should be only accepted with letters and no numbers
-* A display table for the final passengers with unique seat numbers and ID
-* Passengers whose first & last names exceed 5 letters are to be trimmed
-* Max seats are 40
-* Random security numbers between 30,000 - 999,999
-* Many more constraints which I forgot
-
-The finals was very enjoyable and although I made other C# projects before, this one takes the cake for its challenges.
-
+Quickly! is an app riddled with simple Math problems for Android users. It is easy to use and can be enjoyed by all ages! A time-limit is set for each challenge and a quick reset is done (3 sec) after each end of the session. 
 
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
-* [Visual Studio](https://visualstudio.microsoft.com/)
+* [Android Studio](https://developer.android.com/studio?gclid=Cj0KCQiAgomBBhDXARIsAFNyUqPrcNelGRGxbaoYdBjys1vo0-DIGwHeZd1j5Yf-RnEziCp8nuC-qVwaAhZNEALw_wcB&gclsrc=aw.ds)
+* [Java](hhttps://www.java.com/en/)
 
 
 
@@ -62,13 +51,13 @@ This section should list any major frameworks that you built your project using.
 
 A step by step guide on how to use the console: 
 <p align="center">
-<img src = "images1/SS1.png" width = "650" height = "800">
+<img src = "images1/SS1.png" width = "250" height = "400">
 </p>
 
 1. Initial Page where client inputs their names. 
 
 <p align="center">
-<img src = "Images/2nd%20SS.png" width = "550" height = "850">
+<img src = "Images/2nd%20SS.png" width = "450" height = "650">
 </p>
 
 2. A display table with trimmed names is shown as a summary of the input data.
@@ -88,7 +77,7 @@ A step by step guide on how to use the console:
 
 Your Name - Michael Ravina - michaelravina@yahoo.com
 
-Project Link: [https://github.com/michaelravina/Airplane-ticketing-system]
+Project Link: [https://github.com/michaelravina/Quickly-]
 
 Linkedin: [linkedin-url]: https://www.linkedin.com/in/mike-ravina-1368a11a8/
 
@@ -96,5 +85,6 @@ Linkedin: [linkedin-url]: https://www.linkedin.com/in/mike-ravina-1368a11a8/
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* QUT staff and Dr. Arash for holding my hand (metaphorically) throughout the project
-* To the github community for providing me this awesome readme template
+* Thank you to Dr. Shad for his tutorials on how to create video games from Android studio:
+
+Youtube link: [youtube-url]: https://www.youtube.com/watch?v=44pK7MDexqI&list=PLhPyEFL5u-i3tikmnS9QAFi7YuLWR7q8P&t=0s
