@@ -65,7 +65,7 @@ A step by step guide on how to use the console:
 </p>
             
 <p align="center">
-2. Once the GO button is clicked, the timer starts (upper left).
+**2. Once the GO button is clicked, the timer starts (upper left).**
 </p>
 
 <br />
